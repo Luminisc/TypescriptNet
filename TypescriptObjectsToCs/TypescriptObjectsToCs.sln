@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.32804.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TypescriptObjectsToCs", "TypescriptObjectsToCs\TypescriptObjectsToCs.csproj", "{A908E1EF-ACAD-4899-A83A-7B018ABB9BEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeAnalysisSandbox", "CodeAnalysisSandbox\CodeAnalysisSandbox.csproj", "{3281B360-8F36-4E70-8593-20630B569DA2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Files", "Solution Files", "{31E398F1-382D-4624-8AA1-9D325E185D6A}"
+	ProjectSection(SolutionItems) = preProject
+		..\README.md = ..\README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A908E1EF-ACAD-4899-A83A-7B018ABB9BEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A908E1EF-ACAD-4899-A83A-7B018ABB9BEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A908E1EF-ACAD-4899-A83A-7B018ABB9BEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A908E1EF-ACAD-4899-A83A-7B018ABB9BEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3281B360-8F36-4E70-8593-20630B569DA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3281B360-8F36-4E70-8593-20630B569DA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3281B360-8F36-4E70-8593-20630B569DA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3281B360-8F36-4E70-8593-20630B569DA2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11882002-F0D5-44F5-95F2-0AE1DC415E79}
+	EndGlobalSection
+EndGlobal

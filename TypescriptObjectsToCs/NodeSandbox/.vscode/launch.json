@@ -1,0 +1,29 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Launch TS",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "args": ["--experimental-specifier-resolution=node", "--loader", "ts-node/esm", "${workspaceFolder}\\index.ts"],
+            "outFiles": [
+                "${workspaceFolder}/**/*.js"
+            ]
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Launch JS",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "args": ["--max-old-space-size=18192", "${workspaceFolder}\\index.cjs"],
+            "outFiles": [
+                "${workspaceFolder}/**/*.js"
+            ]
+        }
+    ]
+}
