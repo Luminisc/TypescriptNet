@@ -20,7 +20,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "args": ["--max-old-space-size=18192", "${workspaceFolder}\\index.cjs"],
+            "args": ["--max-old-space-size=8192", "${workspaceFolder}\\index.js"],
             "outFiles": [
                 "${workspaceFolder}/**/*.js"
             ]

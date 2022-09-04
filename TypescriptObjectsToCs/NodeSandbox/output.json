@@ -22,7 +22,7 @@
           "transformFlags": 0,
           "kind": 79,
           "escapedText": "TimeSpan",
-          "_jstype": "IdentifierObject"
+          "_type": "IdentifierObject"
         },
         "modifiers": [
           {
@@ -32,7 +32,7 @@
             "modifierFlagsCache": 0,
             "transformFlags": 0,
             "kind": 93,
-            "_jstype": "TokenObject"
+            "_type": "TokenObject"
           }
         ],
         "members": [
@@ -51,7 +51,7 @@
               "transformFlags": 0,
               "kind": 79,
               "escapedText": "ticks",
-              "_jstype": "IdentifierObject"
+              "_type": "IdentifierObject"
             },
             "type": {
               "pos": 40,
@@ -60,7 +60,7 @@
               "modifierFlagsCache": 0,
               "transformFlags": 1,
               "kind": 147,
-              "_jstype": "TokenObject"
+              "_type": "TokenObject"
             },
             "questionToken": {
               "pos": 38,
@@ -69,9 +69,9 @@
               "modifierFlagsCache": 0,
               "transformFlags": 0,
               "kind": 57,
-              "_jstype": "TokenObject"
+              "_type": "TokenObject"
             },
-            "_jstype": "NodeObject"
+            "_type": "NodeObject"
           },
           {
             "pos": 48,
@@ -88,7 +88,7 @@
               "transformFlags": 0,
               "kind": 79,
               "escapedText": "days",
-              "_jstype": "IdentifierObject"
+              "_type": "IdentifierObject"
             },
             "type": {
               "pos": 59,
@@ -97,7 +97,7 @@
               "modifierFlagsCache": 0,
               "transformFlags": 1,
               "kind": 147,
-              "_jstype": "TokenObject"
+              "_type": "TokenObject"
             },
             "questionToken": {
               "pos": 57,
@@ -106,9 +106,9 @@
               "modifierFlagsCache": 0,
               "transformFlags": 0,
               "kind": 57,
-              "_jstype": "TokenObject"
+              "_type": "TokenObject"
             },
-            "_jstype": "NodeObject"
+            "_type": "NodeObject"
           },
           {
             "pos": 67,
@@ -125,7 +125,7 @@
               "transformFlags": 0,
               "kind": 79,
               "escapedText": "hours",
-              "_jstype": "IdentifierObject"
+              "_type": "IdentifierObject"
             },
             "type": {
               "pos": 79,
@@ -134,7 +134,7 @@
               "modifierFlagsCache": 0,
               "transformFlags": 1,
               "kind": 147,
-              "_jstype": "TokenObject"
+              "_type": "TokenObject"
             },
             "questionToken": {
               "pos": 77,
@@ -143,9 +143,9 @@
               "modifierFlagsCache": 0,
               "transformFlags": 0,
               "kind": 57,
-              "_jstype": "TokenObject"
+              "_type": "TokenObject"
             },
-            "_jstype": "NodeObject"
+            "_type": "NodeObject"
           },
           {
             "pos": 87,
@@ -162,7 +162,7 @@
               "transformFlags": 0,
               "kind": 79,
               "escapedText": "milliseconds",
-              "_jstype": "IdentifierObject"
+              "_type": "IdentifierObject"
             },
             "type": {
               "pos": 106,
@@ -171,7 +171,7 @@
               "modifierFlagsCache": 0,
               "transformFlags": 1,
               "kind": 147,
-              "_jstype": "TokenObject"
+              "_type": "TokenObject"
             },
             "questionToken": {
               "pos": 104,
@@ -180,9 +180,9 @@
               "modifierFlagsCache": 0,
               "transformFlags": 0,
               "kind": 57,
-              "_jstype": "TokenObject"
+              "_type": "TokenObject"
             },
-            "_jstype": "NodeObject"
+            "_type": "NodeObject"
           },
           {
             "pos": 114,
@@ -199,7 +199,7 @@
               "transformFlags": 0,
               "kind": 79,
               "escapedText": "minutes",
-              "_jstype": "IdentifierObject"
+              "_type": "IdentifierObject"
             },
             "type": {
               "pos": 128,
@@ -208,7 +208,7 @@
               "modifierFlagsCache": 0,
               "transformFlags": 1,
               "kind": 147,
-              "_jstype": "TokenObject"
+              "_type": "TokenObject"
             },
             "questionToken": {
               "pos": 126,
@@ -217,9 +217,9 @@
               "modifierFlagsCache": 0,
               "transformFlags": 0,
               "kind": 57,
-              "_jstype": "TokenObject"
+              "_type": "TokenObject"
             },
-            "_jstype": "NodeObject"
+            "_type": "NodeObject"
           },
           {
             "pos": 136,
@@ -236,7 +236,7 @@
               "transformFlags": 0,
               "kind": 79,
               "escapedText": "seconds",
-              "_jstype": "IdentifierObject"
+              "_type": "IdentifierObject"
             },
             "type": {
               "pos": 150,
@@ -245,7 +245,7 @@
               "modifierFlagsCache": 0,
               "transformFlags": 1,
               "kind": 147,
-              "_jstype": "TokenObject"
+              "_type": "TokenObject"
             },
             "questionToken": {
               "pos": 148,
@@ -254,9 +254,9 @@
               "modifierFlagsCache": 0,
               "transformFlags": 0,
               "kind": 57,
-              "_jstype": "TokenObject"
+              "_type": "TokenObject"
             },
-            "_jstype": "NodeObject"
+            "_type": "NodeObject"
           },
           {
             "pos": 158,
@@ -273,7 +273,7 @@
               "transformFlags": 0,
               "kind": 79,
               "escapedText": "totalDays",
-              "_jstype": "IdentifierObject"
+              "_type": "IdentifierObject"
             },
             "modifiers": [
               {
@@ -283,7 +283,7 @@
                 "modifierFlagsCache": 0,
                 "transformFlags": 1,
                 "kind": 145,
-                "_jstype": "TokenObject"
+                "_type": "TokenObject"
               }
             ],
             "type": {
@@ -293,7 +293,7 @@
               "modifierFlagsCache": 0,
               "transformFlags": 1,
               "kind": 147,
-              "_jstype": "TokenObject"
+              "_type": "TokenObject"
             },
             "questionToken": {
               "pos": 181,
@@ -302,9 +302,9 @@
               "modifierFlagsCache": 0,
               "transformFlags": 0,
               "kind": 57,
-              "_jstype": "TokenObject"
+              "_type": "TokenObject"
             },
-            "_jstype": "NodeObject"
+            "_type": "NodeObject"
           },
           {
             "pos": 191,
@@ -321,7 +321,7 @@
               "transformFlags": 0,
               "kind": 79,
               "escapedText": "totalHours",
-              "_jstype": "IdentifierObject"
+              "_type": "IdentifierObject"
             },
             "modifiers": [
               {
@@ -331,7 +331,7 @@
                 "modifierFlagsCache": 0,
                 "transformFlags": 1,
                 "kind": 145,
-                "_jstype": "TokenObject"
+                "_type": "TokenObject"
               }
             ],
             "type": {
@@ -341,7 +341,7 @@
               "modifierFlagsCache": 0,
               "transformFlags": 1,
               "kind": 147,
-              "_jstype": "TokenObject"
+              "_type": "TokenObject"
             },
             "questionToken": {
               "pos": 215,
@@ -350,9 +350,9 @@
               "modifierFlagsCache": 0,
               "transformFlags": 0,
               "kind": 57,
-              "_jstype": "TokenObject"
+              "_type": "TokenObject"
             },
-            "_jstype": "NodeObject"
+            "_type": "NodeObject"
           },
           {
             "pos": 225,
@@ -369,7 +369,7 @@
               "transformFlags": 0,
               "kind": 79,
               "escapedText": "totalMilliseconds",
-              "_jstype": "IdentifierObject"
+              "_type": "IdentifierObject"
             },
             "modifiers": [
               {
@@ -379,7 +379,7 @@
                 "modifierFlagsCache": 0,
                 "transformFlags": 1,
                 "kind": 145,
-                "_jstype": "TokenObject"
+                "_type": "TokenObject"
               }
             ],
             "type": {
@@ -389,7 +389,7 @@
               "modifierFlagsCache": 0,
               "transformFlags": 1,
               "kind": 147,
-              "_jstype": "TokenObject"
+              "_type": "TokenObject"
             },
             "questionToken": {
               "pos": 256,
@@ -398,9 +398,9 @@
               "modifierFlagsCache": 0,
               "transformFlags": 0,
               "kind": 57,
-              "_jstype": "TokenObject"
+              "_type": "TokenObject"
             },
-            "_jstype": "NodeObject"
+            "_type": "NodeObject"
           },
           {
             "pos": 266,
@@ -417,7 +417,7 @@
               "transformFlags": 0,
               "kind": 79,
               "escapedText": "totalMinutes",
-              "_jstype": "IdentifierObject"
+              "_type": "IdentifierObject"
             },
             "modifiers": [
               {
@@ -427,7 +427,7 @@
                 "modifierFlagsCache": 0,
                 "transformFlags": 1,
                 "kind": 145,
-                "_jstype": "TokenObject"
+                "_type": "TokenObject"
               }
             ],
             "type": {
@@ -437,7 +437,7 @@
               "modifierFlagsCache": 0,
               "transformFlags": 1,
               "kind": 147,
-              "_jstype": "TokenObject"
+              "_type": "TokenObject"
             },
             "questionToken": {
               "pos": 292,
@@ -446,9 +446,9 @@
               "modifierFlagsCache": 0,
               "transformFlags": 0,
               "kind": 57,
-              "_jstype": "TokenObject"
+              "_type": "TokenObject"
             },
-            "_jstype": "NodeObject"
+            "_type": "NodeObject"
           },
           {
             "pos": 302,
@@ -465,7 +465,7 @@
               "transformFlags": 0,
               "kind": 79,
               "escapedText": "totalSeconds",
-              "_jstype": "IdentifierObject"
+              "_type": "IdentifierObject"
             },
             "modifiers": [
               {
@@ -475,7 +475,7 @@
                 "modifierFlagsCache": 0,
                 "transformFlags": 1,
                 "kind": 145,
-                "_jstype": "TokenObject"
+                "_type": "TokenObject"
               }
             ],
             "type": {
@@ -485,7 +485,7 @@
               "modifierFlagsCache": 0,
               "transformFlags": 1,
               "kind": 147,
-              "_jstype": "TokenObject"
+              "_type": "TokenObject"
             },
             "questionToken": {
               "pos": 328,
@@ -494,12 +494,12 @@
               "modifierFlagsCache": 0,
               "transformFlags": 0,
               "kind": 57,
-              "_jstype": "TokenObject"
+              "_type": "TokenObject"
             },
-            "_jstype": "NodeObject"
+            "_type": "NodeObject"
           }
         ],
-        "_jstype": "NodeObject"
+        "_type": "NodeObject"
       }
     ],
     "endOfFileToken": {
@@ -509,7 +509,7 @@
       "modifierFlagsCache": 0,
       "transformFlags": 0,
       "kind": 1,
-      "_jstype": "TokenObject"
+      "_type": "TokenObject"
     },
     "fileName": "ts_example/timeSpan.ts",
     "text": "export interface TimeSpan { \n    ticks?: number;\n    days?: number;\n    hours?: number;\n    milliseconds?: number;\n    minutes?: number;\n    seconds?: number;\n    readonly totalDays?: number;\n    readonly totalHours?: number;\n    readonly totalMilliseconds?: number;\n    readonly totalMinutes?: number;\n    readonly totalSeconds?: number;\n}",
@@ -534,7 +534,7 @@
         "transformFlags": 0,
         "kind": 79,
         "escapedText": "TimeSpan",
-        "_jstype": "IdentifierObject"
+        "_type": "IdentifierObject"
       },
       "modifiers": [
         {
@@ -544,7 +544,7 @@
           "modifierFlagsCache": 0,
           "transformFlags": 0,
           "kind": 93,
-          "_jstype": "TokenObject"
+          "_type": "TokenObject"
         }
       ],
       "members": [
@@ -563,7 +563,7 @@
             "transformFlags": 0,
             "kind": 79,
             "escapedText": "ticks",
-            "_jstype": "IdentifierObject"
+            "_type": "IdentifierObject"
           },
           "type": {
             "pos": 40,
@@ -572,7 +572,7 @@
             "modifierFlagsCache": 0,
             "transformFlags": 1,
             "kind": 147,
-            "_jstype": "TokenObject"
+            "_type": "TokenObject"
           },
           "questionToken": {
             "pos": 38,
@@ -581,9 +581,9 @@
             "modifierFlagsCache": 0,
             "transformFlags": 0,
             "kind": 57,
-            "_jstype": "TokenObject"
+            "_type": "TokenObject"
           },
-          "_jstype": "NodeObject"
+          "_type": "NodeObject"
         },
         {
           "pos": 48,
@@ -600,7 +600,7 @@
             "transformFlags": 0,
             "kind": 79,
             "escapedText": "days",
-            "_jstype": "IdentifierObject"
+            "_type": "IdentifierObject"
           },
           "type": {
             "pos": 59,
@@ -609,7 +609,7 @@
             "modifierFlagsCache": 0,
             "transformFlags": 1,
             "kind": 147,
-            "_jstype": "TokenObject"
+            "_type": "TokenObject"
           },
           "questionToken": {
             "pos": 57,
@@ -618,9 +618,9 @@
             "modifierFlagsCache": 0,
             "transformFlags": 0,
             "kind": 57,
-            "_jstype": "TokenObject"
+            "_type": "TokenObject"
           },
-          "_jstype": "NodeObject"
+          "_type": "NodeObject"
         },
         {
           "pos": 67,
@@ -637,7 +637,7 @@
             "transformFlags": 0,
             "kind": 79,
             "escapedText": "hours",
-            "_jstype": "IdentifierObject"
+            "_type": "IdentifierObject"
           },
           "type": {
             "pos": 79,
@@ -646,7 +646,7 @@
             "modifierFlagsCache": 0,
             "transformFlags": 1,
             "kind": 147,
-            "_jstype": "TokenObject"
+            "_type": "TokenObject"
           },
           "questionToken": {
             "pos": 77,
@@ -655,9 +655,9 @@
             "modifierFlagsCache": 0,
             "transformFlags": 0,
             "kind": 57,
-            "_jstype": "TokenObject"
+            "_type": "TokenObject"
           },
-          "_jstype": "NodeObject"
+          "_type": "NodeObject"
         },
         {
           "pos": 87,
@@ -674,7 +674,7 @@
             "transformFlags": 0,
             "kind": 79,
             "escapedText": "milliseconds",
-            "_jstype": "IdentifierObject"
+            "_type": "IdentifierObject"
           },
           "type": {
             "pos": 106,
@@ -683,7 +683,7 @@
             "modifierFlagsCache": 0,
             "transformFlags": 1,
             "kind": 147,
-            "_jstype": "TokenObject"
+            "_type": "TokenObject"
           },
           "questionToken": {
             "pos": 104,
@@ -692,9 +692,9 @@
             "modifierFlagsCache": 0,
             "transformFlags": 0,
             "kind": 57,
-            "_jstype": "TokenObject"
+            "_type": "TokenObject"
           },
-          "_jstype": "NodeObject"
+          "_type": "NodeObject"
         },
         {
           "pos": 114,
@@ -711,7 +711,7 @@
             "transformFlags": 0,
             "kind": 79,
             "escapedText": "minutes",
-            "_jstype": "IdentifierObject"
+            "_type": "IdentifierObject"
           },
           "type": {
             "pos": 128,
@@ -720,7 +720,7 @@
             "modifierFlagsCache": 0,
             "transformFlags": 1,
             "kind": 147,
-            "_jstype": "TokenObject"
+            "_type": "TokenObject"
           },
           "questionToken": {
             "pos": 126,
@@ -729,9 +729,9 @@
             "modifierFlagsCache": 0,
             "transformFlags": 0,
             "kind": 57,
-            "_jstype": "TokenObject"
+            "_type": "TokenObject"
           },
-          "_jstype": "NodeObject"
+          "_type": "NodeObject"
         },
         {
           "pos": 136,
@@ -748,7 +748,7 @@
             "transformFlags": 0,
             "kind": 79,
             "escapedText": "seconds",
-            "_jstype": "IdentifierObject"
+            "_type": "IdentifierObject"
           },
           "type": {
             "pos": 150,
@@ -757,7 +757,7 @@
             "modifierFlagsCache": 0,
             "transformFlags": 1,
             "kind": 147,
-            "_jstype": "TokenObject"
+            "_type": "TokenObject"
           },
           "questionToken": {
             "pos": 148,
@@ -766,9 +766,9 @@
             "modifierFlagsCache": 0,
             "transformFlags": 0,
             "kind": 57,
-            "_jstype": "TokenObject"
+            "_type": "TokenObject"
           },
-          "_jstype": "NodeObject"
+          "_type": "NodeObject"
         },
         {
           "pos": 158,
@@ -785,7 +785,7 @@
             "transformFlags": 0,
             "kind": 79,
             "escapedText": "totalDays",
-            "_jstype": "IdentifierObject"
+            "_type": "IdentifierObject"
           },
           "modifiers": [
             {
@@ -795,7 +795,7 @@
               "modifierFlagsCache": 0,
               "transformFlags": 1,
               "kind": 145,
-              "_jstype": "TokenObject"
+              "_type": "TokenObject"
             }
           ],
           "type": {
@@ -805,7 +805,7 @@
             "modifierFlagsCache": 0,
             "transformFlags": 1,
             "kind": 147,
-            "_jstype": "TokenObject"
+            "_type": "TokenObject"
           },
           "questionToken": {
             "pos": 181,
@@ -814,9 +814,9 @@
             "modifierFlagsCache": 0,
             "transformFlags": 0,
             "kind": 57,
-            "_jstype": "TokenObject"
+            "_type": "TokenObject"
           },
-          "_jstype": "NodeObject"
+          "_type": "NodeObject"
         },
         {
           "pos": 191,
@@ -833,7 +833,7 @@
             "transformFlags": 0,
             "kind": 79,
             "escapedText": "totalHours",
-            "_jstype": "IdentifierObject"
+            "_type": "IdentifierObject"
           },
           "modifiers": [
             {
@@ -843,7 +843,7 @@
               "modifierFlagsCache": 0,
               "transformFlags": 1,
               "kind": 145,
-              "_jstype": "TokenObject"
+              "_type": "TokenObject"
             }
           ],
           "type": {
@@ -853,7 +853,7 @@
             "modifierFlagsCache": 0,
             "transformFlags": 1,
             "kind": 147,
-            "_jstype": "TokenObject"
+            "_type": "TokenObject"
           },
           "questionToken": {
             "pos": 215,
@@ -862,9 +862,9 @@
             "modifierFlagsCache": 0,
             "transformFlags": 0,
             "kind": 57,
-            "_jstype": "TokenObject"
+            "_type": "TokenObject"
           },
-          "_jstype": "NodeObject"
+          "_type": "NodeObject"
         },
         {
           "pos": 225,
@@ -881,7 +881,7 @@
             "transformFlags": 0,
             "kind": 79,
             "escapedText": "totalMilliseconds",
-            "_jstype": "IdentifierObject"
+            "_type": "IdentifierObject"
           },
           "modifiers": [
             {
@@ -891,7 +891,7 @@
               "modifierFlagsCache": 0,
               "transformFlags": 1,
               "kind": 145,
-              "_jstype": "TokenObject"
+              "_type": "TokenObject"
             }
           ],
           "type": {
@@ -901,7 +901,7 @@
             "modifierFlagsCache": 0,
             "transformFlags": 1,
             "kind": 147,
-            "_jstype": "TokenObject"
+            "_type": "TokenObject"
           },
           "questionToken": {
             "pos": 256,
@@ -910,9 +910,9 @@
             "modifierFlagsCache": 0,
             "transformFlags": 0,
             "kind": 57,
-            "_jstype": "TokenObject"
+            "_type": "TokenObject"
           },
-          "_jstype": "NodeObject"
+          "_type": "NodeObject"
         },
         {
           "pos": 266,
@@ -929,7 +929,7 @@
             "transformFlags": 0,
             "kind": 79,
             "escapedText": "totalMinutes",
-            "_jstype": "IdentifierObject"
+            "_type": "IdentifierObject"
           },
           "modifiers": [
             {
@@ -939,7 +939,7 @@
               "modifierFlagsCache": 0,
               "transformFlags": 1,
               "kind": 145,
-              "_jstype": "TokenObject"
+              "_type": "TokenObject"
             }
           ],
           "type": {
@@ -949,7 +949,7 @@
             "modifierFlagsCache": 0,
             "transformFlags": 1,
             "kind": 147,
-            "_jstype": "TokenObject"
+            "_type": "TokenObject"
           },
           "questionToken": {
             "pos": 292,
@@ -958,9 +958,9 @@
             "modifierFlagsCache": 0,
             "transformFlags": 0,
             "kind": 57,
-            "_jstype": "TokenObject"
+            "_type": "TokenObject"
           },
-          "_jstype": "NodeObject"
+          "_type": "NodeObject"
         },
         {
           "pos": 302,
@@ -977,7 +977,7 @@
             "transformFlags": 0,
             "kind": 79,
             "escapedText": "totalSeconds",
-            "_jstype": "IdentifierObject"
+            "_type": "IdentifierObject"
           },
           "modifiers": [
             {
@@ -987,7 +987,7 @@
               "modifierFlagsCache": 0,
               "transformFlags": 1,
               "kind": 145,
-              "_jstype": "TokenObject"
+              "_type": "TokenObject"
             }
           ],
           "type": {
@@ -997,7 +997,7 @@
             "modifierFlagsCache": 0,
             "transformFlags": 1,
             "kind": 147,
-            "_jstype": "TokenObject"
+            "_type": "TokenObject"
           },
           "questionToken": {
             "pos": 328,
@@ -1006,12 +1006,12 @@
             "modifierFlagsCache": 0,
             "transformFlags": 0,
             "kind": 57,
-            "_jstype": "TokenObject"
+            "_type": "TokenObject"
           },
-          "_jstype": "NodeObject"
+          "_type": "NodeObject"
         }
       ],
-      "_jstype": "NodeObject"
+      "_type": "NodeObject"
     },
     "pragmas": {},
     "referencedFiles": [],
@@ -1035,7 +1035,7 @@
       "totalSeconds": "totalSeconds"
     },
     "parseDiagnostics": [],
-    "_jstype": "SourceFileObject"
+    "_type": "SourceFileObject"
   },
   {
     "pos": 0,
@@ -1084,14 +1084,14 @@
                   "transformFlags": 0,
                   "kind": 79,
                   "escapedText": "TimeSpan",
-                  "_jstype": "IdentifierObject"
+                  "_type": "IdentifierObject"
                 },
-                "_jstype": "NodeObject"
+                "_type": "NodeObject"
               }
             ],
-            "_jstype": "NodeObject"
+            "_type": "NodeObject"
           },
-          "_jstype": "NodeObject"
+          "_type": "NodeObject"
         },
         "moduleSpecifier": {
           "pos": 24,
@@ -1102,9 +1102,9 @@
           "kind": 10,
           "text": "./timeSpan",
           "hasExtendedUnicodeEscape": false,
-          "_jstype": "TokenObject"
+          "_type": "TokenObject"
         },
-        "_jstype": "NodeObject"
+        "_type": "NodeObject"
       },
       {
         "pos": 38,
@@ -1121,7 +1121,7 @@
           "transformFlags": 0,
           "kind": 79,
           "escapedText": "DownloadSettings",
-          "_jstype": "IdentifierObject"
+          "_type": "IdentifierObject"
         },
         "modifiers": [
           {
@@ -1131,7 +1131,7 @@
             "modifierFlagsCache": 0,
             "transformFlags": 0,
             "kind": 93,
-            "_jstype": "TokenObject"
+            "_type": "TokenObject"
           }
         ],
         "members": [
@@ -1150,7 +1150,7 @@
               "transformFlags": 0,
               "kind": 79,
               "escapedText": "wellboreUid",
-              "_jstype": "IdentifierObject"
+              "_type": "IdentifierObject"
             },
             "type": {
               "pos": 94,
@@ -1159,7 +1159,7 @@
               "modifierFlagsCache": 0,
               "transformFlags": 1,
               "kind": 150,
-              "_jstype": "TokenObject"
+              "_type": "TokenObject"
             },
             "questionToken": {
               "pos": 92,
@@ -1168,9 +1168,9 @@
               "modifierFlagsCache": 0,
               "transformFlags": 0,
               "kind": 57,
-              "_jstype": "TokenObject"
+              "_type": "TokenObject"
             },
-            "_jstype": "NodeObject"
+            "_type": "NodeObject"
           },
           {
             "pos": 102,
@@ -1187,7 +1187,7 @@
               "transformFlags": 0,
               "kind": 79,
               "escapedText": "logUid",
-              "_jstype": "IdentifierObject"
+              "_type": "IdentifierObject"
             },
             "type": {
               "pos": 115,
@@ -1196,7 +1196,7 @@
               "modifierFlagsCache": 0,
               "transformFlags": 1,
               "kind": 150,
-              "_jstype": "TokenObject"
+              "_type": "TokenObject"
             },
             "questionToken": {
               "pos": 113,
@@ -1205,9 +1205,9 @@
               "modifierFlagsCache": 0,
               "transformFlags": 0,
               "kind": 57,
-              "_jstype": "TokenObject"
+              "_type": "TokenObject"
             },
-            "_jstype": "NodeObject"
+            "_type": "NodeObject"
           },
           {
             "pos": 123,
@@ -1224,7 +1224,7 @@
               "transformFlags": 0,
               "kind": 79,
               "escapedText": "curveId",
-              "_jstype": "IdentifierObject"
+              "_type": "IdentifierObject"
             },
             "type": {
               "pos": 137,
@@ -1233,7 +1233,7 @@
               "modifierFlagsCache": 0,
               "transformFlags": 1,
               "kind": 150,
-              "_jstype": "TokenObject"
+              "_type": "TokenObject"
             },
             "questionToken": {
               "pos": 135,
@@ -1242,9 +1242,9 @@
               "modifierFlagsCache": 0,
               "transformFlags": 0,
               "kind": 57,
-              "_jstype": "TokenObject"
+              "_type": "TokenObject"
             },
-            "_jstype": "NodeObject"
+            "_type": "NodeObject"
           },
           {
             "pos": 145,
@@ -1261,7 +1261,7 @@
               "transformFlags": 0,
               "kind": 79,
               "escapedText": "utcTimeOffset",
-              "_jstype": "IdentifierObject"
+              "_type": "IdentifierObject"
             },
             "type": {
               "pos": 165,
@@ -1278,9 +1278,9 @@
                 "transformFlags": 0,
                 "kind": 79,
                 "escapedText": "TimeSpan",
-                "_jstype": "IdentifierObject"
+                "_type": "IdentifierObject"
               },
-              "_jstype": "NodeObject"
+              "_type": "NodeObject"
             },
             "questionToken": {
               "pos": 163,
@@ -1289,9 +1289,9 @@
               "modifierFlagsCache": 0,
               "transformFlags": 0,
               "kind": 57,
-              "_jstype": "TokenObject"
+              "_type": "TokenObject"
             },
-            "_jstype": "NodeObject"
+            "_type": "NodeObject"
           },
           {
             "pos": 175,
@@ -1308,7 +1308,7 @@
               "transformFlags": 0,
               "kind": 79,
               "escapedText": "isRealtime",
-              "_jstype": "IdentifierObject"
+              "_type": "IdentifierObject"
             },
             "type": {
               "pos": 192,
@@ -1317,7 +1317,7 @@
               "modifierFlagsCache": 0,
               "transformFlags": 1,
               "kind": 133,
-              "_jstype": "TokenObject"
+              "_type": "TokenObject"
             },
             "questionToken": {
               "pos": 190,
@@ -1326,12 +1326,12 @@
               "modifierFlagsCache": 0,
               "transformFlags": 0,
               "kind": 57,
-              "_jstype": "TokenObject"
+              "_type": "TokenObject"
             },
-            "_jstype": "NodeObject"
+            "_type": "NodeObject"
           }
         ],
-        "_jstype": "NodeObject"
+        "_type": "NodeObject"
       }
     ],
     "endOfFileToken": {
@@ -1341,7 +1341,7 @@
       "modifierFlagsCache": 0,
       "transformFlags": 0,
       "kind": 1,
-      "_jstype": "TokenObject"
+      "_type": "TokenObject"
     },
     "fileName": "ts_example/downloadSettings.ts",
     "text": "import { TimeSpan } from './timeSpan';\n\nexport interface DownloadSettings { \n    wellboreUid?: string;\n    logUid?: string;\n    curveId?: string;\n    utcTimeOffset?: TimeSpan;\n    isRealtime?: boolean;\n}",
@@ -1390,14 +1390,14 @@
                 "transformFlags": 0,
                 "kind": 79,
                 "escapedText": "TimeSpan",
-                "_jstype": "IdentifierObject"
+                "_type": "IdentifierObject"
               },
-              "_jstype": "NodeObject"
+              "_type": "NodeObject"
             }
           ],
-          "_jstype": "NodeObject"
+          "_type": "NodeObject"
         },
-        "_jstype": "NodeObject"
+        "_type": "NodeObject"
       },
       "moduleSpecifier": {
         "pos": 24,
@@ -1408,9 +1408,9 @@
         "kind": 10,
         "text": "./timeSpan",
         "hasExtendedUnicodeEscape": false,
-        "_jstype": "TokenObject"
+        "_type": "TokenObject"
       },
-      "_jstype": "NodeObject"
+      "_type": "NodeObject"
     },
     "pragmas": {},
     "referencedFiles": [],
@@ -1430,6 +1430,2445 @@
       "isRealtime": "isRealtime"
     },
     "parseDiagnostics": [],
-    "_jstype": "SourceFileObject"
+    "_type": "SourceFileObject"
+  },
+  {
+    "pos": 0,
+    "end": 118,
+    "flags": 0,
+    "modifierFlagsCache": 0,
+    "transformFlags": 1,
+    "kind": 305,
+    "statements": [
+      {
+        "pos": 0,
+        "end": 44,
+        "flags": 0,
+        "modifierFlagsCache": 0,
+        "transformFlags": 0,
+        "kind": 266,
+        "importClause": {
+          "pos": 6,
+          "end": 22,
+          "flags": 0,
+          "modifierFlagsCache": 0,
+          "transformFlags": 0,
+          "kind": 267,
+          "isTypeOnly": false,
+          "namedBindings": {
+            "pos": 6,
+            "end": 22,
+            "flags": 0,
+            "modifierFlagsCache": 0,
+            "transformFlags": 0,
+            "kind": 269,
+            "elements": [
+              {
+                "pos": 8,
+                "end": 20,
+                "flags": 0,
+                "modifierFlagsCache": 0,
+                "transformFlags": 0,
+                "kind": 270,
+                "isTypeOnly": false,
+                "name": {
+                  "pos": 8,
+                  "end": 20,
+                  "flags": 0,
+                  "modifierFlagsCache": 0,
+                  "transformFlags": 0,
+                  "kind": 79,
+                  "escapedText": "TaskMapping",
+                  "_type": "IdentifierObject"
+                },
+                "_type": "NodeObject"
+              }
+            ],
+            "_type": "NodeObject"
+          },
+          "_type": "NodeObject"
+        },
+        "moduleSpecifier": {
+          "pos": 27,
+          "end": 43,
+          "flags": 0,
+          "modifierFlagsCache": 0,
+          "transformFlags": 0,
+          "kind": 10,
+          "text": "./taskMapping",
+          "hasExtendedUnicodeEscape": false,
+          "_type": "TokenObject"
+        },
+        "_type": "NodeObject"
+      },
+      {
+        "pos": 44,
+        "end": 118,
+        "flags": 0,
+        "modifierFlagsCache": 0,
+        "transformFlags": 1,
+        "kind": 258,
+        "name": {
+          "pos": 62,
+          "end": 78,
+          "flags": 0,
+          "modifierFlagsCache": 0,
+          "transformFlags": 0,
+          "kind": 79,
+          "escapedText": "MappingSettings",
+          "_type": "IdentifierObject"
+        },
+        "modifiers": [
+          {
+            "pos": 44,
+            "end": 52,
+            "flags": 0,
+            "modifierFlagsCache": 0,
+            "transformFlags": 0,
+            "kind": 93,
+            "_type": "TokenObject"
+          }
+        ],
+        "members": [
+          {
+            "pos": 80,
+            "end": 116,
+            "flags": 0,
+            "modifierFlagsCache": 0,
+            "transformFlags": 1,
+            "kind": 166,
+            "name": {
+              "pos": 80,
+              "end": 94,
+              "flags": 0,
+              "modifierFlagsCache": 0,
+              "transformFlags": 0,
+              "kind": 79,
+              "escapedText": "mappings",
+              "_type": "IdentifierObject"
+            },
+            "type": {
+              "pos": 96,
+              "end": 115,
+              "flags": 0,
+              "modifierFlagsCache": 0,
+              "transformFlags": 1,
+              "kind": 178,
+              "typeName": {
+                "pos": 96,
+                "end": 102,
+                "flags": 0,
+                "modifierFlagsCache": 0,
+                "transformFlags": 0,
+                "kind": 79,
+                "escapedText": "Array",
+                "_type": "IdentifierObject"
+              },
+              "typeArguments": [
+                {
+                  "pos": 103,
+                  "end": 114,
+                  "flags": 0,
+                  "modifierFlagsCache": 0,
+                  "transformFlags": 1,
+                  "kind": 178,
+                  "typeName": {
+                    "pos": 103,
+                    "end": 114,
+                    "flags": 0,
+                    "modifierFlagsCache": 0,
+                    "transformFlags": 0,
+                    "kind": 79,
+                    "escapedText": "TaskMapping",
+                    "_type": "IdentifierObject"
+                  },
+                  "_type": "NodeObject"
+                }
+              ],
+              "_type": "NodeObject"
+            },
+            "questionToken": {
+              "pos": 94,
+              "end": 95,
+              "flags": 0,
+              "modifierFlagsCache": 0,
+              "transformFlags": 0,
+              "kind": 57,
+              "_type": "TokenObject"
+            },
+            "_type": "NodeObject"
+          }
+        ],
+        "_type": "NodeObject"
+      }
+    ],
+    "endOfFileToken": {
+      "pos": 118,
+      "end": 118,
+      "flags": 0,
+      "modifierFlagsCache": 0,
+      "transformFlags": 0,
+      "kind": 1,
+      "_type": "TokenObject"
+    },
+    "fileName": "ts_example/mappingSettings.ts",
+    "text": "import { TaskMapping } from './taskMapping';\n\nexport interface MappingSettings { \n    mappings?: Array<TaskMapping>;\n}",
+    "languageVersion": 99,
+    "languageVariant": 0,
+    "scriptKind": 3,
+    "isDeclarationFile": false,
+    "hasNoDefaultLib": false,
+    "bindDiagnostics": [],
+    "externalModuleIndicator": {
+      "pos": 0,
+      "end": 44,
+      "flags": 0,
+      "modifierFlagsCache": 0,
+      "transformFlags": 0,
+      "kind": 266,
+      "importClause": {
+        "pos": 6,
+        "end": 22,
+        "flags": 0,
+        "modifierFlagsCache": 0,
+        "transformFlags": 0,
+        "kind": 267,
+        "isTypeOnly": false,
+        "namedBindings": {
+          "pos": 6,
+          "end": 22,
+          "flags": 0,
+          "modifierFlagsCache": 0,
+          "transformFlags": 0,
+          "kind": 269,
+          "elements": [
+            {
+              "pos": 8,
+              "end": 20,
+              "flags": 0,
+              "modifierFlagsCache": 0,
+              "transformFlags": 0,
+              "kind": 270,
+              "isTypeOnly": false,
+              "name": {
+                "pos": 8,
+                "end": 20,
+                "flags": 0,
+                "modifierFlagsCache": 0,
+                "transformFlags": 0,
+                "kind": 79,
+                "escapedText": "TaskMapping",
+                "_type": "IdentifierObject"
+              },
+              "_type": "NodeObject"
+            }
+          ],
+          "_type": "NodeObject"
+        },
+        "_type": "NodeObject"
+      },
+      "moduleSpecifier": {
+        "pos": 27,
+        "end": 43,
+        "flags": 0,
+        "modifierFlagsCache": 0,
+        "transformFlags": 0,
+        "kind": 10,
+        "text": "./taskMapping",
+        "hasExtendedUnicodeEscape": false,
+        "_type": "TokenObject"
+      },
+      "_type": "NodeObject"
+    },
+    "pragmas": {},
+    "referencedFiles": [],
+    "typeReferenceDirectives": [],
+    "libReferenceDirectives": [],
+    "amdDependencies": [],
+    "nodeCount": 18,
+    "identifierCount": 5,
+    "identifiers": {
+      "TaskMapping": "TaskMapping",
+      "./taskMapping": "./taskMapping",
+      "MappingSettings": "MappingSettings",
+      "mappings": "mappings",
+      "Array": "Array"
+    },
+    "parseDiagnostics": [],
+    "_type": "SourceFileObject"
+  },
+  {
+    "pos": 0,
+    "end": 204,
+    "flags": 0,
+    "modifierFlagsCache": 0,
+    "transformFlags": 1,
+    "kind": 305,
+    "statements": [
+      {
+        "pos": 0,
+        "end": 204,
+        "flags": 0,
+        "modifierFlagsCache": 0,
+        "transformFlags": 1,
+        "kind": 258,
+        "name": {
+          "pos": 16,
+          "end": 28,
+          "flags": 0,
+          "modifierFlagsCache": 0,
+          "transformFlags": 0,
+          "kind": 79,
+          "escapedText": "TaskMapping",
+          "_type": "IdentifierObject"
+        },
+        "modifiers": [
+          {
+            "pos": 0,
+            "end": 6,
+            "flags": 0,
+            "modifierFlagsCache": 0,
+            "transformFlags": 0,
+            "kind": 93,
+            "_type": "TokenObject"
+          }
+        ],
+        "members": [
+          {
+            "pos": 30,
+            "end": 53,
+            "flags": 0,
+            "modifierFlagsCache": 0,
+            "transformFlags": 1,
+            "kind": 166,
+            "name": {
+              "pos": 30,
+              "end": 43,
+              "flags": 0,
+              "modifierFlagsCache": 0,
+              "transformFlags": 0,
+              "kind": 79,
+              "escapedText": "wellUid",
+              "_type": "IdentifierObject"
+            },
+            "type": {
+              "pos": 45,
+              "end": 52,
+              "flags": 0,
+              "modifierFlagsCache": 0,
+              "transformFlags": 1,
+              "kind": 150,
+              "_type": "TokenObject"
+            },
+            "questionToken": {
+              "pos": 43,
+              "end": 44,
+              "flags": 0,
+              "modifierFlagsCache": 0,
+              "transformFlags": 0,
+              "kind": 57,
+              "_type": "TokenObject"
+            },
+            "_type": "NodeObject"
+          },
+          {
+            "pos": 53,
+            "end": 79,
+            "flags": 0,
+            "modifierFlagsCache": 0,
+            "transformFlags": 1,
+            "kind": 166,
+            "name": {
+              "pos": 53,
+              "end": 69,
+              "flags": 0,
+              "modifierFlagsCache": 0,
+              "transformFlags": 0,
+              "kind": 79,
+              "escapedText": "wellboreUid",
+              "_type": "IdentifierObject"
+            },
+            "type": {
+              "pos": 71,
+              "end": 78,
+              "flags": 0,
+              "modifierFlagsCache": 0,
+              "transformFlags": 1,
+              "kind": 150,
+              "_type": "TokenObject"
+            },
+            "questionToken": {
+              "pos": 69,
+              "end": 70,
+              "flags": 0,
+              "modifierFlagsCache": 0,
+              "transformFlags": 0,
+              "kind": 57,
+              "_type": "TokenObject"
+            },
+            "_type": "NodeObject"
+          },
+          {
+            "pos": 79,
+            "end": 103,
+            "flags": 0,
+            "modifierFlagsCache": 0,
+            "transformFlags": 1,
+            "kind": 166,
+            "name": {
+              "pos": 79,
+              "end": 93,
+              "flags": 0,
+              "modifierFlagsCache": 0,
+              "transformFlags": 0,
+              "kind": 79,
+              "escapedText": "companyId",
+              "_type": "IdentifierObject"
+            },
+            "type": {
+              "pos": 95,
+              "end": 102,
+              "flags": 0,
+              "modifierFlagsCache": 0,
+              "transformFlags": 1,
+              "kind": 150,
+              "_type": "TokenObject"
+            },
+            "questionToken": {
+              "pos": 93,
+              "end": 94,
+              "flags": 0,
+              "modifierFlagsCache": 0,
+              "transformFlags": 0,
+              "kind": 57,
+              "_type": "TokenObject"
+            },
+            "_type": "NodeObject"
+          },
+          {
+            "pos": 103,
+            "end": 130,
+            "flags": 0,
+            "modifierFlagsCache": 0,
+            "transformFlags": 1,
+            "kind": 166,
+            "name": {
+              "pos": 103,
+              "end": 120,
+              "flags": 0,
+              "modifierFlagsCache": 0,
+              "transformFlags": 0,
+              "kind": 79,
+              "escapedText": "oilfieldName",
+              "_type": "IdentifierObject"
+            },
+            "type": {
+              "pos": 122,
+              "end": 129,
+              "flags": 0,
+              "modifierFlagsCache": 0,
+              "transformFlags": 1,
+              "kind": 150,
+              "_type": "TokenObject"
+            },
+            "questionToken": {
+              "pos": 120,
+              "end": 121,
+              "flags": 0,
+              "modifierFlagsCache": 0,
+              "transformFlags": 0,
+              "kind": 57,
+              "_type": "TokenObject"
+            },
+            "_type": "NodeObject"
+          },
+          {
+            "pos": 130,
+            "end": 152,
+            "flags": 0,
+            "modifierFlagsCache": 0,
+            "transformFlags": 1,
+            "kind": 166,
+            "name": {
+              "pos": 130,
+              "end": 142,
+              "flags": 0,
+              "modifierFlagsCache": 0,
+              "transformFlags": 0,
+              "kind": 79,
+              "escapedText": "padName",
+              "_type": "IdentifierObject"
+            },
+            "type": {
+              "pos": 144,
+              "end": 151,
+              "flags": 0,
+              "modifierFlagsCache": 0,
+              "transformFlags": 1,
+              "kind": 150,
+              "_type": "TokenObject"
+            },
+            "questionToken": {
+              "pos": 142,
+              "end": 143,
+              "flags": 0,
+              "modifierFlagsCache": 0,
+              "transformFlags": 0,
+              "kind": 57,
+              "_type": "TokenObject"
+            },
+            "_type": "NodeObject"
+          },
+          {
+            "pos": 152,
+            "end": 175,
+            "flags": 0,
+            "modifierFlagsCache": 0,
+            "transformFlags": 1,
+            "kind": 166,
+            "name": {
+              "pos": 152,
+              "end": 165,
+              "flags": 0,
+              "modifierFlagsCache": 0,
+              "transformFlags": 0,
+              "kind": 79,
+              "escapedText": "wellName",
+              "_type": "IdentifierObject"
+            },
+            "type": {
+              "pos": 167,
+              "end": 174,
+              "flags": 0,
+              "modifierFlagsCache": 0,
+              "transformFlags": 1,
+              "kind": 150,
+              "_type": "TokenObject"
+            },
+            "questionToken": {
+              "pos": 165,
+              "end": 166,
+              "flags": 0,
+              "modifierFlagsCache": 0,
+              "transformFlags": 0,
+              "kind": 57,
+              "_type": "TokenObject"
+            },
+            "_type": "NodeObject"
+          },
+          {
+            "pos": 175,
+            "end": 202,
+            "flags": 0,
+            "modifierFlagsCache": 0,
+            "transformFlags": 1,
+            "kind": 166,
+            "name": {
+              "pos": 175,
+              "end": 192,
+              "flags": 0,
+              "modifierFlagsCache": 0,
+              "transformFlags": 0,
+              "kind": 79,
+              "escapedText": "wellboreName",
+              "_type": "IdentifierObject"
+            },
+            "type": {
+              "pos": 194,
+              "end": 201,
+              "flags": 0,
+              "modifierFlagsCache": 0,
+              "transformFlags": 1,
+              "kind": 150,
+              "_type": "TokenObject"
+            },
+            "questionToken": {
+              "pos": 192,
+              "end": 193,
+              "flags": 0,
+              "modifierFlagsCache": 0,
+              "transformFlags": 0,
+              "kind": 57,
+              "_type": "TokenObject"
+            },
+            "_type": "NodeObject"
+          }
+        ],
+        "_type": "NodeObject"
+      }
+    ],
+    "endOfFileToken": {
+      "pos": 204,
+      "end": 204,
+      "flags": 0,
+      "modifierFlagsCache": 0,
+      "transformFlags": 0,
+      "kind": 1,
+      "_type": "TokenObject"
+    },
+    "fileName": "ts_example/taskMapping.ts",
+    "text": "export interface TaskMapping { \n    wellUid?: string;\n    wellboreUid?: string;\n    companyId?: string;\n    oilfieldName?: string;\n    padName?: string;\n    wellName?: string;\n    wellboreName?: string;\n}",
+    "languageVersion": 99,
+    "languageVariant": 0,
+    "scriptKind": 3,
+    "isDeclarationFile": false,
+    "hasNoDefaultLib": false,
+    "bindDiagnostics": [],
+    "externalModuleIndicator": {
+      "pos": 0,
+      "end": 204,
+      "flags": 0,
+      "modifierFlagsCache": 0,
+      "transformFlags": 1,
+      "kind": 258,
+      "name": {
+        "pos": 16,
+        "end": 28,
+        "flags": 0,
+        "modifierFlagsCache": 0,
+        "transformFlags": 0,
+        "kind": 79,
+        "escapedText": "TaskMapping",
+        "_type": "IdentifierObject"
+      },
+      "modifiers": [
+        {
+          "pos": 0,
+          "end": 6,
+          "flags": 0,
+          "modifierFlagsCache": 0,
+          "transformFlags": 0,
+          "kind": 93,
+          "_type": "TokenObject"
+        }
+      ],
+      "members": [
+        {
+          "pos": 30,
+          "end": 53,
+          "flags": 0,
+          "modifierFlagsCache": 0,
+          "transformFlags": 1,
+          "kind": 166,
+          "name": {
+            "pos": 30,
+            "end": 43,
+            "flags": 0,
+            "modifierFlagsCache": 0,
+            "transformFlags": 0,
+            "kind": 79,
+            "escapedText": "wellUid",
+            "_type": "IdentifierObject"
+          },
+          "type": {
+            "pos": 45,
+            "end": 52,
+            "flags": 0,
+            "modifierFlagsCache": 0,
+            "transformFlags": 1,
+            "kind": 150,
+            "_type": "TokenObject"
+          },
+          "questionToken": {
+            "pos": 43,
+            "end": 44,
+            "flags": 0,
+            "modifierFlagsCache": 0,
+            "transformFlags": 0,
+            "kind": 57,
+            "_type": "TokenObject"
+          },
+          "_type": "NodeObject"
+        },
+        {
+          "pos": 53,
+          "end": 79,
+          "flags": 0,
+          "modifierFlagsCache": 0,
+          "transformFlags": 1,
+          "kind": 166,
+          "name": {
+            "pos": 53,
+            "end": 69,
+            "flags": 0,
+            "modifierFlagsCache": 0,
+            "transformFlags": 0,
+            "kind": 79,
+            "escapedText": "wellboreUid",
+            "_type": "IdentifierObject"
+          },
+          "type": {
+            "pos": 71,
+            "end": 78,
+            "flags": 0,
+            "modifierFlagsCache": 0,
+            "transformFlags": 1,
+            "kind": 150,
+            "_type": "TokenObject"
+          },
+          "questionToken": {
+            "pos": 69,
+            "end": 70,
+            "flags": 0,
+            "modifierFlagsCache": 0,
+            "transformFlags": 0,
+            "kind": 57,
+            "_type": "TokenObject"
+          },
+          "_type": "NodeObject"
+        },
+        {
+          "pos": 79,
+          "end": 103,
+          "flags": 0,
+          "modifierFlagsCache": 0,
+          "transformFlags": 1,
+          "kind": 166,
+          "name": {
+            "pos": 79,
+            "end": 93,
+            "flags": 0,
+            "modifierFlagsCache": 0,
+            "transformFlags": 0,
+            "kind": 79,
+            "escapedText": "companyId",
+            "_type": "IdentifierObject"
+          },
+          "type": {
+            "pos": 95,
+            "end": 102,
+            "flags": 0,
+            "modifierFlagsCache": 0,
+            "transformFlags": 1,
+            "kind": 150,
+            "_type": "TokenObject"
+          },
+          "questionToken": {
+            "pos": 93,
+            "end": 94,
+            "flags": 0,
+            "modifierFlagsCache": 0,
+            "transformFlags": 0,
+            "kind": 57,
+            "_type": "TokenObject"
+          },
+          "_type": "NodeObject"
+        },
+        {
+          "pos": 103,
+          "end": 130,
+          "flags": 0,
+          "modifierFlagsCache": 0,
+          "transformFlags": 1,
+          "kind": 166,
+          "name": {
+            "pos": 103,
+            "end": 120,
+            "flags": 0,
+            "modifierFlagsCache": 0,
+            "transformFlags": 0,
+            "kind": 79,
+            "escapedText": "oilfieldName",
+            "_type": "IdentifierObject"
+          },
+          "type": {
+            "pos": 122,
+            "end": 129,
+            "flags": 0,
+            "modifierFlagsCache": 0,
+            "transformFlags": 1,
+            "kind": 150,
+            "_type": "TokenObject"
+          },
+          "questionToken": {
+            "pos": 120,
+            "end": 121,
+            "flags": 0,
+            "modifierFlagsCache": 0,
+            "transformFlags": 0,
+            "kind": 57,
+            "_type": "TokenObject"
+          },
+          "_type": "NodeObject"
+        },
+        {
+          "pos": 130,
+          "end": 152,
+          "flags": 0,
+          "modifierFlagsCache": 0,
+          "transformFlags": 1,
+          "kind": 166,
+          "name": {
+            "pos": 130,
+            "end": 142,
+            "flags": 0,
+            "modifierFlagsCache": 0,
+            "transformFlags": 0,
+            "kind": 79,
+            "escapedText": "padName",
+            "_type": "IdentifierObject"
+          },
+          "type": {
+            "pos": 144,
+            "end": 151,
+            "flags": 0,
+            "modifierFlagsCache": 0,
+            "transformFlags": 1,
+            "kind": 150,
+            "_type": "TokenObject"
+          },
+          "questionToken": {
+            "pos": 142,
+            "end": 143,
+            "flags": 0,
+            "modifierFlagsCache": 0,
+            "transformFlags": 0,
+            "kind": 57,
+            "_type": "TokenObject"
+          },
+          "_type": "NodeObject"
+        },
+        {
+          "pos": 152,
+          "end": 175,
+          "flags": 0,
+          "modifierFlagsCache": 0,
+          "transformFlags": 1,
+          "kind": 166,
+          "name": {
+            "pos": 152,
+            "end": 165,
+            "flags": 0,
+            "modifierFlagsCache": 0,
+            "transformFlags": 0,
+            "kind": 79,
+            "escapedText": "wellName",
+            "_type": "IdentifierObject"
+          },
+          "type": {
+            "pos": 167,
+            "end": 174,
+            "flags": 0,
+            "modifierFlagsCache": 0,
+            "transformFlags": 1,
+            "kind": 150,
+            "_type": "TokenObject"
+          },
+          "questionToken": {
+            "pos": 165,
+            "end": 166,
+            "flags": 0,
+            "modifierFlagsCache": 0,
+            "transformFlags": 0,
+            "kind": 57,
+            "_type": "TokenObject"
+          },
+          "_type": "NodeObject"
+        },
+        {
+          "pos": 175,
+          "end": 202,
+          "flags": 0,
+          "modifierFlagsCache": 0,
+          "transformFlags": 1,
+          "kind": 166,
+          "name": {
+            "pos": 175,
+            "end": 192,
+            "flags": 0,
+            "modifierFlagsCache": 0,
+            "transformFlags": 0,
+            "kind": 79,
+            "escapedText": "wellboreName",
+            "_type": "IdentifierObject"
+          },
+          "type": {
+            "pos": 194,
+            "end": 201,
+            "flags": 0,
+            "modifierFlagsCache": 0,
+            "transformFlags": 1,
+            "kind": 150,
+            "_type": "TokenObject"
+          },
+          "questionToken": {
+            "pos": 192,
+            "end": 193,
+            "flags": 0,
+            "modifierFlagsCache": 0,
+            "transformFlags": 0,
+            "kind": 57,
+            "_type": "TokenObject"
+          },
+          "_type": "NodeObject"
+        }
+      ],
+      "_type": "NodeObject"
+    },
+    "pragmas": {},
+    "referencedFiles": [],
+    "typeReferenceDirectives": [],
+    "libReferenceDirectives": [],
+    "amdDependencies": [],
+    "nodeCount": 33,
+    "identifierCount": 8,
+    "identifiers": {
+      "TaskMapping": "TaskMapping",
+      "wellUid": "wellUid",
+      "wellboreUid": "wellboreUid",
+      "companyId": "companyId",
+      "oilfieldName": "oilfieldName",
+      "padName": "padName",
+      "wellName": "wellName",
+      "wellboreName": "wellboreName"
+    },
+    "parseDiagnostics": [],
+    "_type": "SourceFileObject"
+  },
+  {
+    "pos": 0,
+    "end": 313,
+    "flags": 0,
+    "modifierFlagsCache": 0,
+    "transformFlags": 4457473,
+    "kind": 305,
+    "statements": [
+      {
+        "pos": 0,
+        "end": 86,
+        "flags": 0,
+        "modifierFlagsCache": 0,
+        "transformFlags": 1,
+        "kind": 259,
+        "name": {
+          "pos": 11,
+          "end": 22,
+          "flags": 0,
+          "modifierFlagsCache": 0,
+          "transformFlags": 0,
+          "kind": 79,
+          "escapedText": "TaskStatus",
+          "_type": "IdentifierObject"
+        },
+        "modifiers": [
+          {
+            "pos": 0,
+            "end": 6,
+            "flags": 0,
+            "modifierFlagsCache": 0,
+            "transformFlags": 0,
+            "kind": 93,
+            "_type": "TokenObject"
+          }
+        ],
+        "type": {
+          "pos": 24,
+          "end": 85,
+          "flags": 0,
+          "modifierFlagsCache": 0,
+          "transformFlags": 1,
+          "kind": 187,
+          "types": [
+            {
+              "pos": 24,
+              "end": 34,
+              "flags": 0,
+              "modifierFlagsCache": 0,
+              "transformFlags": 1,
+              "kind": 196,
+              "literal": {
+                "pos": 24,
+                "end": 34,
+                "flags": 0,
+                "modifierFlagsCache": 0,
+                "transformFlags": 0,
+                "kind": 10,
+                "text": "Created",
+                "hasExtendedUnicodeEscape": false,
+                "_type": "TokenObject"
+              },
+              "_type": "NodeObject"
+            },
+            {
+              "pos": 36,
+              "end": 45,
+              "flags": 0,
+              "modifierFlagsCache": 0,
+              "transformFlags": 1,
+              "kind": 196,
+              "literal": {
+                "pos": 36,
+                "end": 45,
+                "flags": 0,
+                "modifierFlagsCache": 0,
+                "transformFlags": 0,
+                "kind": 10,
+                "text": "Queued",
+                "hasExtendedUnicodeEscape": false,
+                "_type": "TokenObject"
+              },
+              "_type": "NodeObject"
+            },
+            {
+              "pos": 47,
+              "end": 60,
+              "flags": 0,
+              "modifierFlagsCache": 0,
+              "transformFlags": 1,
+              "kind": 196,
+              "literal": {
+                "pos": 47,
+                "end": 60,
+                "flags": 0,
+                "modifierFlagsCache": 0,
+                "transformFlags": 0,
+                "kind": 10,
+                "text": "InProgress",
+                "hasExtendedUnicodeEscape": false,
+                "_type": "TokenObject"
+              },
+              "_type": "NodeObject"
+            },
+            {
+              "pos": 62,
+              "end": 74,
+              "flags": 0,
+              "modifierFlagsCache": 0,
+              "transformFlags": 1,
+              "kind": 196,
+              "literal": {
+                "pos": 62,
+                "end": 74,
+                "flags": 0,
+                "modifierFlagsCache": 0,
+                "transformFlags": 0,
+                "kind": 10,
+                "text": "Completed",
+                "hasExtendedUnicodeEscape": false,
+                "_type": "TokenObject"
+              },
+              "_type": "NodeObject"
+            },
+            {
+              "pos": 76,
+              "end": 85,
+              "flags": 0,
+              "modifierFlagsCache": 0,
+              "transformFlags": 1,
+              "kind": 196,
+              "literal": {
+                "pos": 76,
+                "end": 85,
+                "flags": 0,
+                "modifierFlagsCache": 0,
+                "transformFlags": 0,
+                "kind": 10,
+                "text": "Failed",
+                "hasExtendedUnicodeEscape": false,
+                "_type": "TokenObject"
+              },
+              "_type": "NodeObject"
+            }
+          ],
+          "_type": "NodeObject"
+        },
+        "_type": "NodeObject"
+      },
+      {
+        "pos": 86,
+        "end": 313,
+        "flags": 0,
+        "modifierFlagsCache": 0,
+        "transformFlags": 4457473,
+        "kind": 237,
+        "modifiers": [
+          {
+            "pos": 86,
+            "end": 94,
+            "flags": 0,
+            "modifierFlagsCache": 0,
+            "transformFlags": 0,
+            "kind": 93,
+            "_type": "TokenObject"
+          }
+        ],
+        "declarationList": {
+          "pos": 94,
+          "end": 312,
+          "flags": 2,
+          "modifierFlagsCache": 0,
+          "transformFlags": 4457473,
+          "kind": 255,
+          "declarations": [
+            {
+              "pos": 100,
+              "end": 312,
+              "flags": 0,
+              "modifierFlagsCache": 0,
+              "transformFlags": 1,
+              "kind": 254,
+              "name": {
+                "pos": 100,
+                "end": 111,
+                "flags": 0,
+                "modifierFlagsCache": 0,
+                "transformFlags": 0,
+                "kind": 79,
+                "escapedText": "TaskStatus",
+                "_type": "IdentifierObject"
+              },
+              "initializer": {
+                "pos": 113,
+                "end": 312,
+                "flags": 0,
+                "modifierFlagsCache": 0,
+                "transformFlags": 1,
+                "kind": 205,
+                "properties": [
+                  {
+                    "pos": 115,
+                    "end": 152,
+                    "flags": 0,
+                    "modifierFlagsCache": 0,
+                    "transformFlags": 1,
+                    "kind": 296,
+                    "name": {
+                      "pos": 115,
+                      "end": 127,
+                      "flags": 0,
+                      "modifierFlagsCache": 0,
+                      "transformFlags": 0,
+                      "kind": 79,
+                      "escapedText": "Created",
+                      "_type": "IdentifierObject"
+                    },
+                    "initializer": {
+                      "pos": 128,
+                      "end": 152,
+                      "flags": 0,
+                      "modifierFlagsCache": 0,
+                      "transformFlags": 1,
+                      "kind": 229,
+                      "expression": {
+                        "pos": 128,
+                        "end": 138,
+                        "flags": 0,
+                        "modifierFlagsCache": 0,
+                        "transformFlags": 0,
+                        "kind": 10,
+                        "text": "Created",
+                        "hasExtendedUnicodeEscape": false,
+                        "_type": "TokenObject"
+                      },
+                      "type": {
+                        "pos": 141,
+                        "end": 152,
+                        "flags": 0,
+                        "modifierFlagsCache": 0,
+                        "transformFlags": 1,
+                        "kind": 178,
+                        "typeName": {
+                          "pos": 141,
+                          "end": 152,
+                          "flags": 0,
+                          "modifierFlagsCache": 0,
+                          "transformFlags": 0,
+                          "kind": 79,
+                          "escapedText": "TaskStatus",
+                          "_type": "IdentifierObject"
+                        },
+                        "_type": "NodeObject"
+                      },
+                      "_type": "NodeObject"
+                    },
+                    "_type": "NodeObject"
+                  },
+                  {
+                    "pos": 153,
+                    "end": 188,
+                    "flags": 0,
+                    "modifierFlagsCache": 0,
+                    "transformFlags": 1,
+                    "kind": 296,
+                    "name": {
+                      "pos": 153,
+                      "end": 164,
+                      "flags": 0,
+                      "modifierFlagsCache": 0,
+                      "transformFlags": 0,
+                      "kind": 79,
+                      "escapedText": "Queued",
+                      "_type": "IdentifierObject"
+                    },
+                    "initializer": {
+                      "pos": 165,
+                      "end": 188,
+                      "flags": 0,
+                      "modifierFlagsCache": 0,
+                      "transformFlags": 1,
+                      "kind": 229,
+                      "expression": {
+                        "pos": 165,
+                        "end": 174,
+                        "flags": 0,
+                        "modifierFlagsCache": 0,
+                        "transformFlags": 0,
+                        "kind": 10,
+                        "text": "Queued",
+                        "hasExtendedUnicodeEscape": false,
+                        "_type": "TokenObject"
+                      },
+                      "type": {
+                        "pos": 177,
+                        "end": 188,
+                        "flags": 0,
+                        "modifierFlagsCache": 0,
+                        "transformFlags": 1,
+                        "kind": 178,
+                        "typeName": {
+                          "pos": 177,
+                          "end": 188,
+                          "flags": 0,
+                          "modifierFlagsCache": 0,
+                          "transformFlags": 0,
+                          "kind": 79,
+                          "escapedText": "TaskStatus",
+                          "_type": "IdentifierObject"
+                        },
+                        "_type": "NodeObject"
+                      },
+                      "_type": "NodeObject"
+                    },
+                    "_type": "NodeObject"
+                  },
+                  {
+                    "pos": 189,
+                    "end": 232,
+                    "flags": 0,
+                    "modifierFlagsCache": 0,
+                    "transformFlags": 1,
+                    "kind": 296,
+                    "name": {
+                      "pos": 189,
+                      "end": 204,
+                      "flags": 0,
+                      "modifierFlagsCache": 0,
+                      "transformFlags": 0,
+                      "kind": 79,
+                      "escapedText": "InProgress",
+                      "_type": "IdentifierObject"
+                    },
+                    "initializer": {
+                      "pos": 205,
+                      "end": 232,
+                      "flags": 0,
+                      "modifierFlagsCache": 0,
+                      "transformFlags": 1,
+                      "kind": 229,
+                      "expression": {
+                        "pos": 205,
+                        "end": 218,
+                        "flags": 0,
+                        "modifierFlagsCache": 0,
+                        "transformFlags": 0,
+                        "kind": 10,
+                        "text": "InProgress",
+                        "hasExtendedUnicodeEscape": false,
+                        "_type": "TokenObject"
+                      },
+                      "type": {
+                        "pos": 221,
+                        "end": 232,
+                        "flags": 0,
+                        "modifierFlagsCache": 0,
+                        "transformFlags": 1,
+                        "kind": 178,
+                        "typeName": {
+                          "pos": 221,
+                          "end": 232,
+                          "flags": 0,
+                          "modifierFlagsCache": 0,
+                          "transformFlags": 0,
+                          "kind": 79,
+                          "escapedText": "TaskStatus",
+                          "_type": "IdentifierObject"
+                        },
+                        "_type": "NodeObject"
+                      },
+                      "_type": "NodeObject"
+                    },
+                    "_type": "NodeObject"
+                  },
+                  {
+                    "pos": 233,
+                    "end": 274,
+                    "flags": 0,
+                    "modifierFlagsCache": 0,
+                    "transformFlags": 1,
+                    "kind": 296,
+                    "name": {
+                      "pos": 233,
+                      "end": 247,
+                      "flags": 0,
+                      "modifierFlagsCache": 0,
+                      "transformFlags": 0,
+                      "kind": 79,
+                      "escapedText": "Completed",
+                      "_type": "IdentifierObject"
+                    },
+                    "initializer": {
+                      "pos": 248,
+                      "end": 274,
+                      "flags": 0,
+                      "modifierFlagsCache": 0,
+                      "transformFlags": 1,
+                      "kind": 229,
+                      "expression": {
+                        "pos": 248,
+                        "end": 260,
+                        "flags": 0,
+                        "modifierFlagsCache": 0,
+                        "transformFlags": 0,
+                        "kind": 10,
+                        "text": "Completed",
+                        "hasExtendedUnicodeEscape": false,
+                        "_type": "TokenObject"
+                      },
+                      "type": {
+                        "pos": 263,
+                        "end": 274,
+                        "flags": 0,
+                        "modifierFlagsCache": 0,
+                        "transformFlags": 1,
+                        "kind": 178,
+                        "typeName": {
+                          "pos": 263,
+                          "end": 274,
+                          "flags": 0,
+                          "modifierFlagsCache": 0,
+                          "transformFlags": 0,
+                          "kind": 79,
+                          "escapedText": "TaskStatus",
+                          "_type": "IdentifierObject"
+                        },
+                        "_type": "NodeObject"
+                      },
+                      "_type": "NodeObject"
+                    },
+                    "_type": "NodeObject"
+                  },
+                  {
+                    "pos": 275,
+                    "end": 310,
+                    "flags": 0,
+                    "modifierFlagsCache": 0,
+                    "transformFlags": 1,
+                    "kind": 296,
+                    "name": {
+                      "pos": 275,
+                      "end": 286,
+                      "flags": 0,
+                      "modifierFlagsCache": 0,
+                      "transformFlags": 0,
+                      "kind": 79,
+                      "escapedText": "Failed",
+                      "_type": "IdentifierObject"
+                    },
+                    "initializer": {
+                      "pos": 287,
+                      "end": 310,
+                      "flags": 0,
+                      "modifierFlagsCache": 0,
+                      "transformFlags": 1,
+                      "kind": 229,
+                      "expression": {
+                        "pos": 287,
+                        "end": 296,
+                        "flags": 0,
+                        "modifierFlagsCache": 0,
+                        "transformFlags": 0,
+                        "kind": 10,
+                        "text": "Failed",
+                        "hasExtendedUnicodeEscape": false,
+                        "_type": "TokenObject"
+                      },
+                      "type": {
+                        "pos": 299,
+                        "end": 310,
+                        "flags": 0,
+                        "modifierFlagsCache": 0,
+                        "transformFlags": 1,
+                        "kind": 178,
+                        "typeName": {
+                          "pos": 299,
+                          "end": 310,
+                          "flags": 0,
+                          "modifierFlagsCache": 0,
+                          "transformFlags": 0,
+                          "kind": 79,
+                          "escapedText": "TaskStatus",
+                          "_type": "IdentifierObject"
+                        },
+                        "_type": "NodeObject"
+                      },
+                      "_type": "NodeObject"
+                    },
+                    "_type": "NodeObject"
+                  }
+                ],
+                "multiLine": true,
+                "_type": "NodeObject"
+              },
+              "_type": "NodeObject"
+            }
+          ],
+          "_type": "NodeObject"
+        },
+        "_type": "NodeObject"
+      }
+    ],
+    "endOfFileToken": {
+      "pos": 313,
+      "end": 313,
+      "flags": 0,
+      "modifierFlagsCache": 0,
+      "transformFlags": 0,
+      "kind": 1,
+      "_type": "TokenObject"
+    },
+    "fileName": "ts_example/taskStatus.ts",
+    "text": "export type TaskStatus = 'Created' | 'Queued' | 'InProgress' | 'Completed' | 'Failed';\n\nexport const TaskStatus = {\n    Created: 'Created' as TaskStatus,\n    Queued: 'Queued' as TaskStatus,\n    InProgress: 'InProgress' as TaskStatus,\n    Completed: 'Completed' as TaskStatus,\n    Failed: 'Failed' as TaskStatus\n};",
+    "languageVersion": 99,
+    "languageVariant": 0,
+    "scriptKind": 3,
+    "isDeclarationFile": false,
+    "hasNoDefaultLib": false,
+    "bindDiagnostics": [],
+    "externalModuleIndicator": {
+      "pos": 0,
+      "end": 86,
+      "flags": 0,
+      "modifierFlagsCache": 0,
+      "transformFlags": 1,
+      "kind": 259,
+      "name": {
+        "pos": 11,
+        "end": 22,
+        "flags": 0,
+        "modifierFlagsCache": 0,
+        "transformFlags": 0,
+        "kind": 79,
+        "escapedText": "TaskStatus",
+        "_type": "IdentifierObject"
+      },
+      "modifiers": [
+        {
+          "pos": 0,
+          "end": 6,
+          "flags": 0,
+          "modifierFlagsCache": 0,
+          "transformFlags": 0,
+          "kind": 93,
+          "_type": "TokenObject"
+        }
+      ],
+      "type": {
+        "pos": 24,
+        "end": 85,
+        "flags": 0,
+        "modifierFlagsCache": 0,
+        "transformFlags": 1,
+        "kind": 187,
+        "types": [
+          {
+            "pos": 24,
+            "end": 34,
+            "flags": 0,
+            "modifierFlagsCache": 0,
+            "transformFlags": 1,
+            "kind": 196,
+            "literal": {
+              "pos": 24,
+              "end": 34,
+              "flags": 0,
+              "modifierFlagsCache": 0,
+              "transformFlags": 0,
+              "kind": 10,
+              "text": "Created",
+              "hasExtendedUnicodeEscape": false,
+              "_type": "TokenObject"
+            },
+            "_type": "NodeObject"
+          },
+          {
+            "pos": 36,
+            "end": 45,
+            "flags": 0,
+            "modifierFlagsCache": 0,
+            "transformFlags": 1,
+            "kind": 196,
+            "literal": {
+              "pos": 36,
+              "end": 45,
+              "flags": 0,
+              "modifierFlagsCache": 0,
+              "transformFlags": 0,
+              "kind": 10,
+              "text": "Queued",
+              "hasExtendedUnicodeEscape": false,
+              "_type": "TokenObject"
+            },
+            "_type": "NodeObject"
+          },
+          {
+            "pos": 47,
+            "end": 60,
+            "flags": 0,
+            "modifierFlagsCache": 0,
+            "transformFlags": 1,
+            "kind": 196,
+            "literal": {
+              "pos": 47,
+              "end": 60,
+              "flags": 0,
+              "modifierFlagsCache": 0,
+              "transformFlags": 0,
+              "kind": 10,
+              "text": "InProgress",
+              "hasExtendedUnicodeEscape": false,
+              "_type": "TokenObject"
+            },
+            "_type": "NodeObject"
+          },
+          {
+            "pos": 62,
+            "end": 74,
+            "flags": 0,
+            "modifierFlagsCache": 0,
+            "transformFlags": 1,
+            "kind": 196,
+            "literal": {
+              "pos": 62,
+              "end": 74,
+              "flags": 0,
+              "modifierFlagsCache": 0,
+              "transformFlags": 0,
+              "kind": 10,
+              "text": "Completed",
+              "hasExtendedUnicodeEscape": false,
+              "_type": "TokenObject"
+            },
+            "_type": "NodeObject"
+          },
+          {
+            "pos": 76,
+            "end": 85,
+            "flags": 0,
+            "modifierFlagsCache": 0,
+            "transformFlags": 1,
+            "kind": 196,
+            "literal": {
+              "pos": 76,
+              "end": 85,
+              "flags": 0,
+              "modifierFlagsCache": 0,
+              "transformFlags": 0,
+              "kind": 10,
+              "text": "Failed",
+              "hasExtendedUnicodeEscape": false,
+              "_type": "TokenObject"
+            },
+            "_type": "NodeObject"
+          }
+        ],
+        "_type": "NodeObject"
+      },
+      "_type": "NodeObject"
+    },
+    "pragmas": {},
+    "referencedFiles": [],
+    "typeReferenceDirectives": [],
+    "libReferenceDirectives": [],
+    "amdDependencies": [],
+    "nodeCount": 52,
+    "identifierCount": 12,
+    "identifiers": {
+      "TaskStatus": "TaskStatus",
+      "Created": "Created",
+      "Queued": "Queued",
+      "InProgress": "InProgress",
+      "Completed": "Completed",
+      "Failed": "Failed"
+    },
+    "parseDiagnostics": [],
+    "_type": "SourceFileObject"
+  },
+  {
+    "pos": 0,
+    "end": 543,
+    "flags": 0,
+    "modifierFlagsCache": 0,
+    "transformFlags": 1,
+    "kind": 305,
+    "statements": [
+      {
+        "pos": 0,
+        "end": 54,
+        "flags": 0,
+        "modifierFlagsCache": 0,
+        "transformFlags": 0,
+        "kind": 266,
+        "importClause": {
+          "pos": 6,
+          "end": 27,
+          "flags": 0,
+          "modifierFlagsCache": 0,
+          "transformFlags": 0,
+          "kind": 267,
+          "isTypeOnly": false,
+          "namedBindings": {
+            "pos": 6,
+            "end": 27,
+            "flags": 0,
+            "modifierFlagsCache": 0,
+            "transformFlags": 0,
+            "kind": 269,
+            "elements": [
+              {
+                "pos": 8,
+                "end": 25,
+                "flags": 0,
+                "modifierFlagsCache": 0,
+                "transformFlags": 0,
+                "kind": 270,
+                "isTypeOnly": false,
+                "name": {
+                  "pos": 8,
+                  "end": 25,
+                  "flags": 0,
+                  "modifierFlagsCache": 0,
+                  "transformFlags": 0,
+                  "kind": 79,
+                  "escapedText": "DownloadSettings",
+                  "_type": "IdentifierObject"
+                },
+                "_type": "NodeObject"
+              }
+            ],
+            "_type": "NodeObject"
+          },
+          "_type": "NodeObject"
+        },
+        "moduleSpecifier": {
+          "pos": 32,
+          "end": 53,
+          "flags": 0,
+          "modifierFlagsCache": 0,
+          "transformFlags": 0,
+          "kind": 10,
+          "text": "./downloadSettings",
+          "hasExtendedUnicodeEscape": false,
+          "_type": "TokenObject"
+        },
+        "_type": "NodeObject"
+      },
+      {
+        "pos": 54,
+        "end": 107,
+        "flags": 0,
+        "modifierFlagsCache": 0,
+        "transformFlags": 0,
+        "kind": 266,
+        "importClause": {
+          "pos": 61,
+          "end": 81,
+          "flags": 0,
+          "modifierFlagsCache": 0,
+          "transformFlags": 0,
+          "kind": 267,
+          "isTypeOnly": false,
+          "namedBindings": {
+            "pos": 61,
+            "end": 81,
+            "flags": 0,
+            "modifierFlagsCache": 0,
+            "transformFlags": 0,
+            "kind": 269,
+            "elements": [
+              {
+                "pos": 63,
+                "end": 79,
+                "flags": 0,
+                "modifierFlagsCache": 0,
+                "transformFlags": 0,
+                "kind": 270,
+                "isTypeOnly": false,
+                "name": {
+                  "pos": 63,
+                  "end": 79,
+                  "flags": 0,
+                  "modifierFlagsCache": 0,
+                  "transformFlags": 0,
+                  "kind": 79,
+                  "escapedText": "MappingSettings",
+                  "_type": "IdentifierObject"
+                },
+                "_type": "NodeObject"
+              }
+            ],
+            "_type": "NodeObject"
+          },
+          "_type": "NodeObject"
+        },
+        "moduleSpecifier": {
+          "pos": 86,
+          "end": 106,
+          "flags": 0,
+          "modifierFlagsCache": 0,
+          "transformFlags": 0,
+          "kind": 10,
+          "text": "./mappingSettings",
+          "hasExtendedUnicodeEscape": false,
+          "_type": "TokenObject"
+        },
+        "_type": "NodeObject"
+      },
+      {
+        "pos": 107,
+        "end": 150,
+        "flags": 0,
+        "modifierFlagsCache": 0,
+        "transformFlags": 0,
+        "kind": 266,
+        "importClause": {
+          "pos": 114,
+          "end": 129,
+          "flags": 0,
+          "modifierFlagsCache": 0,
+          "transformFlags": 0,
+          "kind": 267,
+          "isTypeOnly": false,
+          "namedBindings": {
+            "pos": 114,
+            "end": 129,
+            "flags": 0,
+            "modifierFlagsCache": 0,
+            "transformFlags": 0,
+            "kind": 269,
+            "elements": [
+              {
+                "pos": 116,
+                "end": 127,
+                "flags": 0,
+                "modifierFlagsCache": 0,
+                "transformFlags": 0,
+                "kind": 270,
+                "isTypeOnly": false,
+                "name": {
+                  "pos": 116,
+                  "end": 127,
+                  "flags": 0,
+                  "modifierFlagsCache": 0,
+                  "transformFlags": 0,
+                  "kind": 79,
+                  "escapedText": "TaskStatus",
+                  "_type": "IdentifierObject"
+                },
+                "_type": "NodeObject"
+              }
+            ],
+            "_type": "NodeObject"
+          },
+          "_type": "NodeObject"
+        },
+        "moduleSpecifier": {
+          "pos": 134,
+          "end": 149,
+          "flags": 0,
+          "modifierFlagsCache": 0,
+          "transformFlags": 0,
+          "kind": 10,
+          "text": "./taskStatus",
+          "hasExtendedUnicodeEscape": false,
+          "_type": "TokenObject"
+        },
+        "_type": "NodeObject"
+      },
+      {
+        "pos": 150,
+        "end": 543,
+        "flags": 0,
+        "modifierFlagsCache": 0,
+        "transformFlags": 1,
+        "kind": 258,
+        "name": {
+          "pos": 168,
+          "end": 179,
+          "flags": 0,
+          "modifierFlagsCache": 0,
+          "transformFlags": 0,
+          "kind": 79,
+          "escapedText": "UploadTask",
+          "_type": "IdentifierObject"
+        },
+        "modifiers": [
+          {
+            "pos": 150,
+            "end": 158,
+            "flags": 0,
+            "modifierFlagsCache": 0,
+            "transformFlags": 0,
+            "kind": 93,
+            "_type": "TokenObject"
+          }
+        ],
+        "members": [
+          {
+            "pos": 181,
+            "end": 199,
+            "flags": 0,
+            "modifierFlagsCache": 0,
+            "transformFlags": 1,
+            "kind": 166,
+            "name": {
+              "pos": 181,
+              "end": 189,
+              "flags": 0,
+              "modifierFlagsCache": 0,
+              "transformFlags": 0,
+              "kind": 79,
+              "escapedText": "id",
+              "_type": "IdentifierObject"
+            },
+            "type": {
+              "pos": 191,
+              "end": 198,
+              "flags": 0,
+              "modifierFlagsCache": 0,
+              "transformFlags": 1,
+              "kind": 150,
+              "_type": "TokenObject"
+            },
+            "questionToken": {
+              "pos": 189,
+              "end": 190,
+              "flags": 0,
+              "modifierFlagsCache": 0,
+              "transformFlags": 0,
+              "kind": 57,
+              "_type": "TokenObject"
+            },
+            "_type": "NodeObject"
+          },
+          {
+            "pos": 199,
+            "end": 218,
+            "flags": 0,
+            "modifierFlagsCache": 0,
+            "transformFlags": 1,
+            "kind": 166,
+            "name": {
+              "pos": 199,
+              "end": 208,
+              "flags": 0,
+              "modifierFlagsCache": 0,
+              "transformFlags": 0,
+              "kind": 79,
+              "escapedText": "name",
+              "_type": "IdentifierObject"
+            },
+            "type": {
+              "pos": 210,
+              "end": 217,
+              "flags": 0,
+              "modifierFlagsCache": 0,
+              "transformFlags": 1,
+              "kind": 150,
+              "_type": "TokenObject"
+            },
+            "questionToken": {
+              "pos": 208,
+              "end": 209,
+              "flags": 0,
+              "modifierFlagsCache": 0,
+              "transformFlags": 0,
+              "kind": 57,
+              "_type": "TokenObject"
+            },
+            "_type": "NodeObject"
+          },
+          {
+            "pos": 218,
+            "end": 238,
+            "flags": 0,
+            "modifierFlagsCache": 0,
+            "transformFlags": 1,
+            "kind": 166,
+            "name": {
+              "pos": 218,
+              "end": 228,
+              "flags": 0,
+              "modifierFlagsCache": 0,
+              "transformFlags": 0,
+              "kind": 79,
+              "escapedText": "title",
+              "_type": "IdentifierObject"
+            },
+            "type": {
+              "pos": 230,
+              "end": 237,
+              "flags": 0,
+              "modifierFlagsCache": 0,
+              "transformFlags": 1,
+              "kind": 150,
+              "_type": "TokenObject"
+            },
+            "questionToken": {
+              "pos": 228,
+              "end": 229,
+              "flags": 0,
+              "modifierFlagsCache": 0,
+              "transformFlags": 0,
+              "kind": 57,
+              "_type": "TokenObject"
+            },
+            "_type": "NodeObject"
+          },
+          {
+            "pos": 238,
+            "end": 266,
+            "flags": 0,
+            "modifierFlagsCache": 0,
+            "transformFlags": 1,
+            "kind": 166,
+            "name": {
+              "pos": 251,
+              "end": 256,
+              "flags": 0,
+              "modifierFlagsCache": 0,
+              "transformFlags": 0,
+              "kind": 79,
+              "originalKeywordKind": 152,
+              "escapedText": "type",
+              "_type": "IdentifierObject"
+            },
+            "modifiers": [
+              {
+                "pos": 238,
+                "end": 251,
+                "flags": 0,
+                "modifierFlagsCache": 0,
+                "transformFlags": 1,
+                "kind": 145,
+                "_type": "TokenObject"
+              }
+            ],
+            "type": {
+              "pos": 258,
+              "end": 265,
+              "flags": 0,
+              "modifierFlagsCache": 0,
+              "transformFlags": 1,
+              "kind": 150,
+              "_type": "TokenObject"
+            },
+            "questionToken": {
+              "pos": 256,
+              "end": 257,
+              "flags": 0,
+              "modifierFlagsCache": 0,
+              "transformFlags": 0,
+              "kind": 57,
+              "_type": "TokenObject"
+            },
+            "_type": "NodeObject"
+          },
+          {
+            "pos": 266,
+            "end": 295,
+            "flags": 0,
+            "modifierFlagsCache": 0,
+            "transformFlags": 1,
+            "kind": 166,
+            "name": {
+              "pos": 266,
+              "end": 285,
+              "flags": 0,
+              "modifierFlagsCache": 0,
+              "transformFlags": 0,
+              "kind": 79,
+              "escapedText": "deserializedId",
+              "_type": "IdentifierObject"
+            },
+            "type": {
+              "pos": 287,
+              "end": 294,
+              "flags": 0,
+              "modifierFlagsCache": 0,
+              "transformFlags": 1,
+              "kind": 150,
+              "_type": "TokenObject"
+            },
+            "questionToken": {
+              "pos": 285,
+              "end": 286,
+              "flags": 0,
+              "modifierFlagsCache": 0,
+              "transformFlags": 0,
+              "kind": 57,
+              "_type": "TokenObject"
+            },
+            "_type": "NodeObject"
+          },
+          {
+            "pos": 295,
+            "end": 326,
+            "flags": 0,
+            "modifierFlagsCache": 0,
+            "transformFlags": 1,
+            "kind": 166,
+            "name": {
+              "pos": 295,
+              "end": 316,
+              "flags": 0,
+              "modifierFlagsCache": 0,
+              "transformFlags": 0,
+              "kind": 79,
+              "escapedText": "deserializedName",
+              "_type": "IdentifierObject"
+            },
+            "type": {
+              "pos": 318,
+              "end": 325,
+              "flags": 0,
+              "modifierFlagsCache": 0,
+              "transformFlags": 1,
+              "kind": 150,
+              "_type": "TokenObject"
+            },
+            "questionToken": {
+              "pos": 316,
+              "end": 317,
+              "flags": 0,
+              "modifierFlagsCache": 0,
+              "transformFlags": 0,
+              "kind": 57,
+              "_type": "TokenObject"
+            },
+            "_type": "NodeObject"
+          },
+          {
+            "pos": 326,
+            "end": 358,
+            "flags": 0,
+            "modifierFlagsCache": 0,
+            "transformFlags": 1,
+            "kind": 166,
+            "name": {
+              "pos": 326,
+              "end": 348,
+              "flags": 0,
+              "modifierFlagsCache": 0,
+              "transformFlags": 0,
+              "kind": 79,
+              "escapedText": "deserializedTitle",
+              "_type": "IdentifierObject"
+            },
+            "type": {
+              "pos": 350,
+              "end": 357,
+              "flags": 0,
+              "modifierFlagsCache": 0,
+              "transformFlags": 1,
+              "kind": 150,
+              "_type": "TokenObject"
+            },
+            "questionToken": {
+              "pos": 348,
+              "end": 349,
+              "flags": 0,
+              "modifierFlagsCache": 0,
+              "transformFlags": 0,
+              "kind": 57,
+              "_type": "TokenObject"
+            },
+            "_type": "NodeObject"
+          },
+          {
+            "pos": 358,
+            "end": 380,
+            "flags": 0,
+            "modifierFlagsCache": 0,
+            "transformFlags": 1,
+            "kind": 166,
+            "name": {
+              "pos": 358,
+              "end": 370,
+              "flags": 0,
+              "modifierFlagsCache": 0,
+              "transformFlags": 0,
+              "kind": 79,
+              "escapedText": "wellUid",
+              "_type": "IdentifierObject"
+            },
+            "type": {
+              "pos": 372,
+              "end": 379,
+              "flags": 0,
+              "modifierFlagsCache": 0,
+              "transformFlags": 1,
+              "kind": 150,
+              "_type": "TokenObject"
+            },
+            "questionToken": {
+              "pos": 370,
+              "end": 371,
+              "flags": 0,
+              "modifierFlagsCache": 0,
+              "transformFlags": 0,
+              "kind": 57,
+              "_type": "TokenObject"
+            },
+            "_type": "NodeObject"
+          },
+          {
+            "pos": 380,
+            "end": 421,
+            "flags": 0,
+            "modifierFlagsCache": 0,
+            "transformFlags": 1,
+            "kind": 166,
+            "name": {
+              "pos": 380,
+              "end": 401,
+              "flags": 0,
+              "modifierFlagsCache": 0,
+              "transformFlags": 0,
+              "kind": 79,
+              "escapedText": "downloadSettings",
+              "_type": "IdentifierObject"
+            },
+            "type": {
+              "pos": 403,
+              "end": 420,
+              "flags": 0,
+              "modifierFlagsCache": 0,
+              "transformFlags": 1,
+              "kind": 178,
+              "typeName": {
+                "pos": 403,
+                "end": 420,
+                "flags": 0,
+                "modifierFlagsCache": 0,
+                "transformFlags": 0,
+                "kind": 79,
+                "escapedText": "DownloadSettings",
+                "_type": "IdentifierObject"
+              },
+              "_type": "NodeObject"
+            },
+            "questionToken": {
+              "pos": 401,
+              "end": 402,
+              "flags": 0,
+              "modifierFlagsCache": 0,
+              "transformFlags": 0,
+              "kind": 57,
+              "_type": "TokenObject"
+            },
+            "_type": "NodeObject"
+          },
+          {
+            "pos": 421,
+            "end": 460,
+            "flags": 0,
+            "modifierFlagsCache": 0,
+            "transformFlags": 1,
+            "kind": 166,
+            "name": {
+              "pos": 421,
+              "end": 441,
+              "flags": 0,
+              "modifierFlagsCache": 0,
+              "transformFlags": 0,
+              "kind": 79,
+              "escapedText": "mappingSettings",
+              "_type": "IdentifierObject"
+            },
+            "type": {
+              "pos": 443,
+              "end": 459,
+              "flags": 0,
+              "modifierFlagsCache": 0,
+              "transformFlags": 1,
+              "kind": 178,
+              "typeName": {
+                "pos": 443,
+                "end": 459,
+                "flags": 0,
+                "modifierFlagsCache": 0,
+                "transformFlags": 0,
+                "kind": 79,
+                "escapedText": "MappingSettings",
+                "_type": "IdentifierObject"
+              },
+              "_type": "NodeObject"
+            },
+            "questionToken": {
+              "pos": 441,
+              "end": 442,
+              "flags": 0,
+              "modifierFlagsCache": 0,
+              "transformFlags": 0,
+              "kind": 57,
+              "_type": "TokenObject"
+            },
+            "_type": "NodeObject"
+          },
+          {
+            "pos": 460,
+            "end": 485,
+            "flags": 0,
+            "modifierFlagsCache": 0,
+            "transformFlags": 1,
+            "kind": 166,
+            "name": {
+              "pos": 460,
+              "end": 471,
+              "flags": 0,
+              "modifierFlagsCache": 0,
+              "transformFlags": 0,
+              "kind": 79,
+              "escapedText": "status",
+              "_type": "IdentifierObject"
+            },
+            "type": {
+              "pos": 473,
+              "end": 484,
+              "flags": 0,
+              "modifierFlagsCache": 0,
+              "transformFlags": 1,
+              "kind": 178,
+              "typeName": {
+                "pos": 473,
+                "end": 484,
+                "flags": 0,
+                "modifierFlagsCache": 0,
+                "transformFlags": 0,
+                "kind": 79,
+                "escapedText": "TaskStatus",
+                "_type": "IdentifierObject"
+              },
+              "_type": "NodeObject"
+            },
+            "questionToken": {
+              "pos": 471,
+              "end": 472,
+              "flags": 0,
+              "modifierFlagsCache": 0,
+              "transformFlags": 0,
+              "kind": 57,
+              "_type": "TokenObject"
+            },
+            "_type": "NodeObject"
+          },
+          {
+            "pos": 485,
+            "end": 513,
+            "flags": 0,
+            "modifierFlagsCache": 0,
+            "transformFlags": 1,
+            "kind": 166,
+            "name": {
+              "pos": 485,
+              "end": 503,
+              "flags": 0,
+              "modifierFlagsCache": 0,
+              "transformFlags": 0,
+              "kind": 79,
+              "escapedText": "statusMessage",
+              "_type": "IdentifierObject"
+            },
+            "type": {
+              "pos": 505,
+              "end": 512,
+              "flags": 0,
+              "modifierFlagsCache": 0,
+              "transformFlags": 1,
+              "kind": 150,
+              "_type": "TokenObject"
+            },
+            "questionToken": {
+              "pos": 503,
+              "end": 504,
+              "flags": 0,
+              "modifierFlagsCache": 0,
+              "transformFlags": 0,
+              "kind": 57,
+              "_type": "TokenObject"
+            },
+            "_type": "NodeObject"
+          },
+          {
+            "pos": 513,
+            "end": 541,
+            "flags": 0,
+            "modifierFlagsCache": 0,
+            "transformFlags": 1,
+            "kind": 166,
+            "name": {
+              "pos": 513,
+              "end": 533,
+              "flags": 0,
+              "modifierFlagsCache": 0,
+              "transformFlags": 0,
+              "kind": 79,
+              "escapedText": "statusTimestamp",
+              "_type": "IdentifierObject"
+            },
+            "type": {
+              "pos": 535,
+              "end": 540,
+              "flags": 0,
+              "modifierFlagsCache": 0,
+              "transformFlags": 1,
+              "kind": 178,
+              "typeName": {
+                "pos": 535,
+                "end": 540,
+                "flags": 0,
+                "modifierFlagsCache": 0,
+                "transformFlags": 0,
+                "kind": 79,
+                "escapedText": "Date",
+                "_type": "IdentifierObject"
+              },
+              "_type": "NodeObject"
+            },
+            "questionToken": {
+              "pos": 533,
+              "end": 534,
+              "flags": 0,
+              "modifierFlagsCache": 0,
+              "transformFlags": 0,
+              "kind": 57,
+              "_type": "TokenObject"
+            },
+            "_type": "NodeObject"
+          }
+        ],
+        "_type": "NodeObject"
+      }
+    ],
+    "endOfFileToken": {
+      "pos": 543,
+      "end": 543,
+      "flags": 0,
+      "modifierFlagsCache": 0,
+      "transformFlags": 0,
+      "kind": 1,
+      "_type": "TokenObject"
+    },
+    "fileName": "ts_example/uploadTask.ts",
+    "text": "import { DownloadSettings } from './downloadSettings';\nimport { MappingSettings } from './mappingSettings';\nimport { TaskStatus } from './taskStatus';\n\nexport interface UploadTask { \n    id?: string;\n    name?: string;\n    title?: string;\n    readonly type?: string;\n    deserializedId?: string;\n    deserializedName?: string;\n    deserializedTitle?: string;\n    wellUid?: string;\n    downloadSettings?: DownloadSettings;\n    mappingSettings?: MappingSettings;\n    status?: TaskStatus;\n    statusMessage?: string;\n    statusTimestamp?: Date;\n}",
+    "languageVersion": 99,
+    "languageVariant": 0,
+    "scriptKind": 3,
+    "isDeclarationFile": false,
+    "hasNoDefaultLib": false,
+    "bindDiagnostics": [],
+    "externalModuleIndicator": {
+      "pos": 0,
+      "end": 54,
+      "flags": 0,
+      "modifierFlagsCache": 0,
+      "transformFlags": 0,
+      "kind": 266,
+      "importClause": {
+        "pos": 6,
+        "end": 27,
+        "flags": 0,
+        "modifierFlagsCache": 0,
+        "transformFlags": 0,
+        "kind": 267,
+        "isTypeOnly": false,
+        "namedBindings": {
+          "pos": 6,
+          "end": 27,
+          "flags": 0,
+          "modifierFlagsCache": 0,
+          "transformFlags": 0,
+          "kind": 269,
+          "elements": [
+            {
+              "pos": 8,
+              "end": 25,
+              "flags": 0,
+              "modifierFlagsCache": 0,
+              "transformFlags": 0,
+              "kind": 270,
+              "isTypeOnly": false,
+              "name": {
+                "pos": 8,
+                "end": 25,
+                "flags": 0,
+                "modifierFlagsCache": 0,
+                "transformFlags": 0,
+                "kind": 79,
+                "escapedText": "DownloadSettings",
+                "_type": "IdentifierObject"
+              },
+              "_type": "NodeObject"
+            }
+          ],
+          "_type": "NodeObject"
+        },
+        "_type": "NodeObject"
+      },
+      "moduleSpecifier": {
+        "pos": 32,
+        "end": 53,
+        "flags": 0,
+        "modifierFlagsCache": 0,
+        "transformFlags": 0,
+        "kind": 10,
+        "text": "./downloadSettings",
+        "hasExtendedUnicodeEscape": false,
+        "_type": "TokenObject"
+      },
+      "_type": "NodeObject"
+    },
+    "pragmas": {},
+    "referencedFiles": [],
+    "typeReferenceDirectives": [],
+    "libReferenceDirectives": [],
+    "amdDependencies": [],
+    "nodeCount": 80,
+    "identifierCount": 21,
+    "identifiers": {
+      "DownloadSettings": "DownloadSettings",
+      "./downloadSettings": "./downloadSettings",
+      "MappingSettings": "MappingSettings",
+      "./mappingSettings": "./mappingSettings",
+      "TaskStatus": "TaskStatus",
+      "./taskStatus": "./taskStatus",
+      "UploadTask": "UploadTask",
+      "id": "id",
+      "name": "name",
+      "title": "title",
+      "type": "type",
+      "deserializedId": "deserializedId",
+      "deserializedName": "deserializedName",
+      "deserializedTitle": "deserializedTitle",
+      "wellUid": "wellUid",
+      "downloadSettings": "downloadSettings",
+      "mappingSettings": "mappingSettings",
+      "status": "status",
+      "statusMessage": "statusMessage",
+      "statusTimestamp": "statusTimestamp",
+      "Date": "Date"
+    },
+    "parseDiagnostics": [],
+    "_type": "SourceFileObject"
   }
 ]

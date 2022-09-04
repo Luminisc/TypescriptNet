@@ -17,14 +17,14 @@ namespace TypescriptObjectsToCs
         public static async Task Test()
         {
             // https://github.com/aspnet/JavaScriptServices/tree/master/src/Microsoft.AspNetCore.NodeServices
-
+            var fileNames = Directory.GetFiles("../../../../NodeSandbox/ts_example")
+                .Select(x => Path.GetFullPath(x))
+                .ToArray();
+            
             INodeServices nodeServices = GetNodeService();
-            //var result = await nodeServices.InvokeAsync<string>("./index.ts", "filenameeee");
-            var result = await nodeServices.InvokeAsync<Class1[]>("./index.cjs", "filenameeee");
-            //var texts = result.Select(x => x["statements"]).ToList();
-            var texts = result.Select(x => x.Statements).ToList();
+            var result = await nodeServices.InvokeAsync<JArray>("./dotnetEntrypoint.js", fileNames);
+            var obj = result[0].ToObject<Class1>();
             await Task.CompletedTask;
-            Console.ReadLine();
         }
 
         private static INodeServices GetNodeService()
