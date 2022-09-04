@@ -10,7 +10,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 #pragma warning disable CS0618 // Type or member is obsolete
-namespace TypescriptObjectsToCs
+namespace TypescriptNet.Sandbox
 {
     internal class NodeSandbox
     {

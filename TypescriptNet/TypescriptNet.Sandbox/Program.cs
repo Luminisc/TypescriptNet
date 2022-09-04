@@ -1,4 +1,4 @@
-﻿using TypescriptObjectsToCs;
+﻿using TypescriptNet.Sandbox;
 
 internal class Program
 {

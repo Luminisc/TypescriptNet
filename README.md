@@ -10,4 +10,4 @@ Want to parse TS files with plain classes/interfaces with data to C# classes (or
 ### Project structure
 - CodeAnalysisSandbox - used as sandbox to understand how Roslyn works from perspective of how to create workspace, load files, generate AST, how to work with AST (and what user can do)
 - TypescriptNet - this is project to store classes/enums/logic from `typescript` library. Trying to preserve structure of models and namespace.
-- TypescriptObjectsToCs - currently main sandbox project to test libraries, ideas, etc.
+- TypescriptNet.Sandbox - currently main sandbox project to test libraries, ideas, etc.
